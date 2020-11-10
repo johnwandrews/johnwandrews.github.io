@@ -1,4 +1,4 @@
-## [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
+# [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
 &nbsp;
 
 ### About Me
