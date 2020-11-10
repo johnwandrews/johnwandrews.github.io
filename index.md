@@ -4,7 +4,7 @@
 
 > “The key to wisdom is this – constant and frequent questioning, for by doubting we are led to question, by questioning we arrive at the truth.” – Peter Abelard
 
-### About Me
+# About Me
 
 <br> Hello! My name is John Andrews, but feel free to call me L.J. I am a postgraduate student at the London School of Economics pursuing my MSc in Economic History. I received my B.A. in Foreign Affairs from the University of Virginia in 2020 after I transferred out of Penn State. 
 During my 4th year in college, I worked remotely as an intern for the American Enterprise Institute. This position perfectly combined my passion for international relations with my desire to enhance my research skills, analytic mindset, and critical thinking skills. My work was centered around researching Saddam Hussein’s Iraq, including Saddam’s atrocities, Iraqi-U.S. diplomatic relations, Iraq’s military, and Iraq’s economy from 1979 to today. My research was used in Dr. Kenneth Pollacks article titled “Requiem for Iraq,” and will be used in Dr. Pollack’s forthcoming book The Iraq Wars (Oxford University Press, expected publication 2023). In the summer of 2019, I worked as a receptionist for Realty Management Associates where I strengthened my communication skills after talking daily with potential tenants, many of whom were elderly and/or mentally handicapped, and with various apartment complex directors. During the summer of 2018, I took summer classes at the London School of Economics which is when I fell in love with the school, prompting me to be here today! 
@@ -13,7 +13,7 @@ During my 4th year in college, I worked remotely as an intern for the American E
 
 <br> I enjoy working in teams, giving presentations, and challenging myself, be it in school or at work. In my free time, I enjoy playing sports with my friends, travelling, and playing board games such as Catan and Risk.
 
-### Academic Portfolio
+# Academic Portfolio
 - Foreign Affairs Essays:
     - [Why Japan Was Rational to Attack Pearl Harbor](./japan)
     - [The Ineffectiveness of Aid in Pakistan](./the)
@@ -32,7 +32,7 @@ During my 4th year in college, I worked remotely as an intern for the American E
     - [Gendered Advertising in Food and Beverage](./gendered)
     
 
-### Contact Information
+# Contact Information
 I'd love to chat! You can connect with me through the resources below:
 
 - [LinkedIn](https://www.linkedin.com/in/johnwesleyandrews/)
