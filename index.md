@@ -9,7 +9,9 @@
 ![](johnwandrews.github.io/jwa.jpeg)
 
 
-
+<p align="center">
+  <img width="460" height="300" src="johnwandrews.github.io/jwa.jpeg">
+</p>
 
 
 
