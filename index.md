@@ -1,7 +1,5 @@
-## [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/johnwesleyandrews/)
-&nbsp;
 
-![Image](johnwandrews.github.io/LI-In-Bug.png)[Link](https://www.linkedin.com/in/johnwesleyandrews/) 
+![LinkedIn](johnwandrews.github.io/LI-In-Bug.png)[LinkedIn](https://www.linkedin.com/in/johnwesleyandrews/) 
 
 
 
