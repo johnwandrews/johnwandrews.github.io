@@ -1,15 +1,15 @@
-![](johnwandrews.github.io/LI-In-Bug.png)[LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
+![](johnwandrews.github.io/LI-In-Bug.png) [LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
 
 
 ### About Me
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/johnwandrews/johnwandrews.github.io/blob/main/jwa.jpeg">
+  <img width="300" height="400" src="johnwandrews.github.io/jwa.jpeg">
 </p>
 
 
 
-
+A little about me
 
 You can use the [editor on GitHub](https://github.com/johnwandrews/johnwandrews.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
