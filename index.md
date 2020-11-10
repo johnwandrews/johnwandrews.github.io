@@ -1,5 +1,4 @@
-[Link](johnwandrews.github.io/LI-In-Bug.png) and ![Image](https://www.linkedin.com/in/johnwesleyandrews/)
-
+[![Linkedin](johnwandrews.github.io/LI-In-Bug.png) LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
 
 
 
