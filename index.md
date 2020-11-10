@@ -15,21 +15,22 @@ During my 4th year in college, I worked remotely as an intern for the American E
 
 ### Academic Portfolio
 - Foreign Affairs Essays:
-    - [Reasons the Nazis Came to Power](./five.pdf)
-    - [A Hypothetical Experiment on Attack Ads vs. Positive Ads in the 2016 Election](./hypo.pdf)
-    - [Gender Equality and the Differences Between the Highest and Lowest-Ranking Nations in the Women, Peace, and Security Index](./gender)
-    - [Gendered Advertising in Food and Beverage](./gendered)
-    - [Human Dignity vs. The Ability to Suffer](./human)
-    - [NYT and Fox Bias in the Failed Amazon Deal](./nyt)
-    - [Strait of Hormuz Policy Memo](./strait)
-    - [The Future is Online Banking](./future)
-    - [The Ineffectiveness of Aid in Pakistan](./the)
-    - [Why Germany Outperforms the United States in Health Insurance Coverage](./why)
     - [Why Japan Was Rational to Attack Pearl Harbor](./japan)
-    
-- [U.S. Politics Essays](./US)
-- [Business-Related Essays](./Business)
+    - [The Ineffectiveness of Aid in Pakistan](./the)
+    - [Gender Equality and the Differences Between the Highest and Lowest-Ranking Nations in the Women, Peace, and Security Index](./gender)
+    - [Human Dignity vs. The Ability to Suffer](./human)
+    - [Five Reasons the Nazis Came to Power](./five.pdf)
 
+- U.S. Politics Essays:
+    - [Strait of Hormuz Policy Memo](./strait)
+    - [A Hypothetical Experiment on Attack Ads vs. Positive Ads in the 2016 Election](./hypo.pdf)
+    - [NYT and Fox Bias in the Failed Amazon Deal](./nyt)
+    - [Why Germany Outperforms the United States in Health Insurance Coverage](./why)
+
+- Business-Related Essays:
+    - [The Future is Online Banking](./future)
+    - [Gendered Advertising in Food and Beverage](./gendered)
+    
 
 ### Contact Information
 I'd love to chat! You can connect with me through the resources below:
