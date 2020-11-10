@@ -1,4 +1,4 @@
-[![Linkedin](johnwandrews.github.io/LI-In-Bug.png) LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
+[![Linkedin](johnwandrews.github.io/LI-In-Bug.png)](https://www.linkedin.com/in/john-andrews-390403129/)
 
 
 
