@@ -14,13 +14,19 @@ During my 4th year in college, I worked remotely as an intern for the American E
 <br> I enjoy working in teams, giving presentations, and challenging myself, be it in school or at work. In my free time, I enjoy playing sports with my friends, travelling, and playing board games such as Catan and Risk.
 
 ### Academic Portfolio
-- [Week 4](./week-4): **Show, Don't Tell** 
-    - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
-    - *Lab*: Practice end-to-end EDA with Node class survey data
-
-
 - Foreign Affairs Essays:
-    - [Reasons the Nazis Came to Power](./5 Reasons the Nazis came to Power.pdf)
+    - [Reasons the Nazis Came to Power](./five.pdf)
+    - [A Hypothetical Experiment on Attack Ads vs. Positive Ads in the 2016 Election](./hypo.pdf)
+    - [Gender Equality and the Differences Between the Highest and Lowest-Ranking Nations in the Women, Peace, and Security Index](./gender)
+    - [Gendered Advertising in Food and Beverage](./gendered)
+    - [Human Dignity vs. The Ability to Suffer](./human)
+    - [NYT and Fox Bias in the Failed Amazon Deal](./nyt)
+    - [Strait of Hormuz Policy Memo](./strait)
+    - [The Future is Online Banking](./future)
+    - [The Ineffectiveness of Aid in Pakistan](./the)
+    - [Why Germany Outperforms the United States in Health Insurance Coverage](./why)
+    - [Why Japan Was Rational to Attack Pearl Harbor](./japan)
+    
 - [U.S. Politics Essays](./US)
 - [Business-Related Essays](./Business)
 
