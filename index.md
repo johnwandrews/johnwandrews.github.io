@@ -14,7 +14,13 @@ During my 4th year in college, I worked remotely as an intern for the American E
 <br> I enjoy working in teams, giving presentations, and challenging myself, be it in school or at work. In my free time, I enjoy playing sports with my friends, travelling, and playing board games such as Catan and Risk.
 
 ### Academic Portfolio
-- [Foreign Affairs Essays](./Foreign)
+- [Week 4](./week-4): **Show, Don't Tell** 
+    - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
+    - *Lab*: Practice end-to-end EDA with Node class survey data
+
+
+- Foreign Affairs Essays:
+    - [Reasons the Nazis Came to Power](./5 Reasons the Nazis came to Power.pdf)
 - [U.S. Politics Essays](./US)
 - [Business-Related Essays](./Business)
 
