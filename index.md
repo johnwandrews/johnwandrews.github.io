@@ -22,6 +22,6 @@ During my 4th year in college, I worked remotely as an intern for the American E
 ### Contact Information
 I'd love to chat! You can connect with me through the resources below:
 
-- Telephone: 571-318-0967
-- Email: J.Andrews@lse.ac.uk
 - [LinkedIn](https://www.linkedin.com/in/johnwesleyandrews/)
+- Telephone: (US) 571-318-0967 or (UK) +44 7310 271396
+- Email: J.Andrews@lse.ac.uk
