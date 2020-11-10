@@ -7,7 +7,7 @@
 ### About Me
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/johnwandrews/johnwandrews.github.io/jwa.jpeg">
+  <img width="300" height="400" src="https://github.com/johnwandrews/johnwandrews.github.io/blob/main/jwa.jpeg">
 </p>
 
 
