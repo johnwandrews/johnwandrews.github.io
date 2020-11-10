@@ -1,7 +1,4 @@
-[![Linkedin](johnwandrews.github.io/LI-In-Bug.png)](https://www.linkedin.com/in/john-andrews-390403129/)
-
-
-
+![](johnwandrews.github.io/LI-In-Bug.png)[LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
 
 
 ### About Me
