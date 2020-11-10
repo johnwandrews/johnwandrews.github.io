@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
+&nbsp;
+
+### About Me
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/johnwandrews/johnwandrews.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
