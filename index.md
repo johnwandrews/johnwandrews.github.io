@@ -1,6 +1,3 @@
-![](johnwandrews.github.io/LI-In-Bug.png) [LinkedIn](https://www.linkedin.com/in/johnwesleyandrews/)
-
-
 <p align="center">
   <img width="300" height="400" src="johnwandrews.github.io/jwa.jpeg">
 </p>
@@ -15,6 +12,11 @@ During my 4th year in college, I worked remotely as an intern for the American E
 <br> I am fascinated in foreign affairs and I love asking questions about how the world works around us. Large, difficult questions such as “why are some countries rich while others are poor?” “what strategies should the U.S. take to compete with China?” and “what are the economic implications of globalization?” are deeply interesting to me. I started off as a business student at Penn State before I decided I was more interested in Foreign Affairs at UVA. Thus, I still find business interesting, and enjoy contemplating and discussing business and marketing strategies for companies with my colleagues. As for economic history, I figured that my love and appreciation for history coupled with my desire to increase my economic knowledge made the MSc in Economic History a perfect fit for me.
 
 <br> I enjoy working in teams, giving presentations, and challenging myself, be it in school or at work. In my free time, I enjoy playing sports with my friends, travelling, and playing board games such as Catan and Risk.
+
+### Academic Portfolio
+- [Foreign Affairs Essays](./Foreign)
+- [U.S. Politics Essays](./US)
+- [Business-Related Essays](./Business)
 
 
 ### Contact Information
