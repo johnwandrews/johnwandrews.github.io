@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="johnwandrews.github.io/jwa.jpeg">
+  <img width="460" height="300" src="https://github.com/johnwandrews/johnwandrews.github.io/jwa.jpeg">
 </p>
 
 
