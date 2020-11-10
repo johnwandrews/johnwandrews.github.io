@@ -3,8 +3,7 @@
 
 ### About Me
 
-
-
+![Image of Me](https://johnwandrews.github.io/images/jwa.png)
 
 
 
