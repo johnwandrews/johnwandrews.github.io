@@ -1,4 +1,4 @@
-![](johnwandrews.github.io/LI-In-Bug.png) # [LinkedIn](https://www.linkedin.com/in/john-andrews-390403129/)
+![](johnwandrews.github.io/LI-In-Bug.png) # [LinkedIn](https://www.linkedin.com/in/johnwesleyandrews/)
 
 
 <p align="center">
@@ -9,6 +9,26 @@
 
 
 A little about me
+
+
+### Contact Information
+I'd love to chat! You can connect with me through the resources below:
+
+Telephone: 571-318-0967
+Email: J.Andrews@lse.ac.uk
+[LinkedIn](https://www.linkedin.com/in/johnwesleyandrews/)
+
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/johnwandrews/johnwandrews.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
